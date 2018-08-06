@@ -821,7 +821,7 @@ header.dashboard-header .cp-navigation {
 
 .property-details-subheader-content .property-details .details .details-listing {
   float: left;
-  width: 33.33%;
+  width: 50%;
 }
 
 .property-details-subheader-content .property-details .details .details-listing p {
@@ -2864,7 +2864,7 @@ input[type=radio]:checked~.check {
 
 .listing .content-block .listing-body .info .listing-info {
   float: left;
-  width: 33.33%;
+  width: 50%;
 }
 
 .listing .content-block .listing-body .info .listing-info .title {
