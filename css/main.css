@@ -983,7 +983,7 @@ header.dashboard-header .cp-navigation {
   margin-top: 20px;
 }
 
-.property-block:not(.property-thumb) {
+.property-block {
   padding: 40px;
   -webkit-box-shadow: 0 0 20px rgba(38, 38, 38, 0.2);
   box-shadow: 0 0 20px rgba(38, 38, 38, 0.2);
