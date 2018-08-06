@@ -811,6 +811,7 @@ header.dashboard-header .cp-navigation {
 
 .property-details-subheader-content .property-details .details {
   margin-top: 50px;
+  text-align:right;
 }
 
 .property-details-subheader-content .property-details .details:after {
@@ -830,7 +831,7 @@ header.dashboard-header .cp-navigation {
 }
 
 .property-details-subheader-content .property-details .others {
-  margin-top: 55px;
+ 
 }
 
 .property-details-subheader-content .property-details .others ul {
@@ -6168,4 +6169,16 @@ input[type=radio]:checked~.check {
 .public-transport-table {
   margin-bottom: 1.7rem;
   margin-top: 5rem;
+}
+
+.exe-info{
+  margin: 0;
+  line-height: 2;
+  font-size: 1.2em;
+  font-weight: bold;
+  /* text-align: center; */
+}
+.color{
+  color: #0fa79c;
+  font-size: 1.5em!important;
 }
