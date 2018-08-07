@@ -811,7 +811,7 @@ header.dashboard-header .cp-navigation {
 
 .property-details-subheader-content .property-details .details {
   margin-top: 50px;
-  text-align:right;
+  text-align: right;
 }
 
 .property-details-subheader-content .property-details .details:after {
@@ -830,9 +830,7 @@ header.dashboard-header .cp-navigation {
   line-height: 1.6;
 }
 
-.property-details-subheader-content .property-details .others {
- 
-}
+.property-details-subheader-content .property-details .others {}
 
 .property-details-subheader-content .property-details .others ul {
   padding: 0;
@@ -6171,14 +6169,15 @@ input[type=radio]:checked~.check {
   margin-top: 5rem;
 }
 
-.exe-info{
+.exe-info {
   margin: 0;
   line-height: 2;
   font-size: 1.2em;
   font-weight: bold;
   /* text-align: center; */
 }
-.color{
+
+.color {
   color: #0fa79c;
-  font-size: 1.5em!important;
+  font-size: 1.5em !important;
 }
